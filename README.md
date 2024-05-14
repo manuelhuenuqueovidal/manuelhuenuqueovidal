@@ -1,16 +1,15 @@
 # Hola 👋, soy Manuel Huenuqueo Vidal.
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+Hasta hace un breve tiempo atrás me dedicaba al mundo de las telecomunicaciones donde desarrollé tranajos técnicos orientados a planta interna principalmente. Actualmente resido en Santiago de Chile. 
+Por el momento estoy cursando el bootcamp de programación en aplicaciones web en Javascript en la Academia Desafío Latam (https://desafiolatam.com/) por el programa de estudios de Talento Digital.
+A pesar de que me formé como técnico en telecomunicaciones, siento que actualmente, reinventarse es la mejor opción para no quear atrás en temas laborales. 
+No tengo experiencia previa en programación, pero siempre estoy dispuesto a aprender cosas nuevas, y aunque al principio puede ser complicado, eso muchas veces puede ser un camino que al final da satisfacciones. 
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
-
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
-
-## 📫 Contacto
+## 📫 Contacto:
 
 - Puedes contactarme a través de mi correo electrónico: **<example@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+- Puedes contactarme a través de **[Linkedin]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/manuel-huenuqueo-vidal-54968a2a9/))**
+
 
 ### 🎨 Frontend
 
