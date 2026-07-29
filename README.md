@@ -7,7 +7,7 @@ No tengo experiencia previa en programación, pero siempre estoy dispuesto a apr
 
 ## 📫 Contacto:
 
-- Puedes contactarme a través de mi correo electrónico: **<example@gmail.com>**
+- Puedes contactarme a través de mi correo electrónico: **<manuel.huenuqueo@gmail.com>**
 - Puedes contactarme a través de **[Linkedin]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/manuel-huenuqueo-vidal-54968a2a9/))**
 
 
