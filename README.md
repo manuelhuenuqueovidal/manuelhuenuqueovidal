@@ -1,6 +1,6 @@
 # Hola 👋, soy Manuel Huenuqueo Vidal.
 
-Hasta hace un breve tiempo atrás me dedicaba al mundo de las telecomunicaciones donde desarrollé tranajos técnicos orientados a planta interna principalmente. Actualmente resido en Santiago de Chile. 
+Hasta hace un breve tiempo atrás me dedicaba al mundo de las telecomunicaciones donde desarrollé trabajos técnicos orientados a planta interna principalmente. Actualmente resido en Santiago de Chile. 
 Por el momento estoy cursando el bootcamp de programación en aplicaciones web en Javascript en la Academia Desafío Latam (https://desafiolatam.com/) por el programa de estudios de Talento Digital.
 A pesar de que me formé como técnico en telecomunicaciones, siento que actualmente, reinventarse es la mejor opción para no quear atrás en temas laborales. 
 No tengo experiencia previa en programación, pero siempre estoy dispuesto a aprender cosas nuevas, y aunque al principio puede ser complicado, eso muchas veces puede ser un camino que al final da satisfacciones. 
